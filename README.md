@@ -3,7 +3,7 @@ Tameable Dolphin in 1.12.2
 
 ## Installation
 1. Install [Minecraft Forge](https://files.minecraftforge.net/)
-2. Use AppendDolphinInstaller
+2. Use AppendDolphinInstaller to install this mod
 
 ## Download
 [Google Drive](https://drive.google.com/open?id=1wrVcpLGDol8s6KMqtuFXz4iu4YyzPaH1)
