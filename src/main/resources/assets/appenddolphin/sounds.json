@@ -1,0 +1,91 @@
+{
+    "dolphin.ambient": {
+        "category": "master",
+        "sounds": [
+            "appenddolphin:dolphin/idle1",
+            "appenddolphin:dolphin/idle2",
+            "appenddolphin:dolphin/idle3",
+            "appenddolphin:dolphin/idle4",
+            "appenddolphin:dolphin/idle5",
+            "appenddolphin:dolphin/idle6"
+        ]
+    },
+    "dolphin.ambient_water": {
+        "category": "master",
+        "sounds": [
+            "appenddolphin:dolphin/idle_water1",
+            "appenddolphin:dolphin/idle_water2",
+            "appenddolphin:dolphin/idle_water3",
+            "appenddolphin:dolphin/idle_water4",
+            "appenddolphin:dolphin/idle_water5",
+            "appenddolphin:dolphin/idle_water6",
+            "appenddolphin:dolphin/idle_water7",
+            "appenddolphin:dolphin/idle_water8",
+            "appenddolphin:dolphin/idle_water9",
+            "appenddolphin:dolphin/idle_water10"
+        ]
+    },
+    "dolphin.attack": {
+        "category": "master",
+        "sounds": [
+            "appenddolphin:dolphin/attack1",
+            "appenddolphin:dolphin/attack2",
+            "appenddolphin:dolphin/attack3"
+        ]
+    },
+    "dolphin.death": {
+        "category": "master",
+        "sounds": [
+            "appenddolphin:dolphin/death1",
+            "appenddolphin:dolphin/death2"
+        ]
+    },
+    "dolphin.eat": {
+        "category": "master",
+        "sounds": [
+            "appenddolphin:dolphin/eat1",
+            "appenddolphin:dolphin/eat2",
+            "appenddolphin:dolphin/eat3"
+        ]
+    },
+    "dolphin.hurt": {
+        "category": "master",
+        "sounds": [
+            "appenddolphin:dolphin/hurt1",
+            "appenddolphin:dolphin/hurt2",
+            "appenddolphin:dolphin/hurt3"
+        ]
+    },
+    "dolphin.jump": {
+        "category": "master",
+        "sounds": [
+            "appenddolphin:dolphin/jump1",
+            "appenddolphin:dolphin/jump2",
+            "appenddolphin:dolphin/jump3"
+        ]
+    },
+    "dolphin.play": {
+        "category": "master",
+        "sounds": [
+            "appenddolphin:dolphin/play1",
+            "appenddolphin:dolphin/play2"
+        ]
+    },
+    "dolphin.splash": {
+        "category": "master",
+        "sounds": [
+            "appenddolphin:dolphin/splash1",
+            "appenddolphin:dolphin/splash2",
+            "appenddolphin:dolphin/splash3"
+        ]
+    },
+    "dolphin.swim": {
+        "category": "master",
+        "sounds": [
+            "appenddolphin:dolphin/swim1",
+            "appenddolphin:dolphin/swim2",
+            "appenddolphin:dolphin/swim3",
+            "appenddolphin:dolphin/swim4"
+        ]
+    }
+}

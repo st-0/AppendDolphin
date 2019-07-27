@@ -1,0 +1,16 @@
+[
+{
+  "modid": "appenddolphin",
+  "name": "AppendDolphin",
+  "description": "Tameable Dolphin in 1.12.2",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SATO-REI"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
